@@ -1,1 +1,1 @@
-论文录用公开程序
+Public announcement procedure for accepted papers
