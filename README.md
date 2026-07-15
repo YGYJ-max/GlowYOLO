@@ -1,1 +1,1 @@
-Paper submitted to Engineering Research Express; the complete code will be uploaded after acceptance.
+The complete source code will be made publicly available on GitHub upon acceptance of this paper.
